@@ -1,0 +1,6 @@
+{
+  "name": "CryptoWin Pro",
+  "description": "CryptoWin Pro - Real-time crypto trading, Win-Go options lottery platform, live candlestick charts, and instant settlement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
